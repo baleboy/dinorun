@@ -27,7 +27,7 @@ class ScrollingObject {
         for (var i = 0; i < imageCount; i++) {
             self.images[i] = WatchUi.loadResource(imageResources[i]);
         }
-        currentImage = 0;
+        self.currentImage = 0;
         self.width = images[0].getWidth();
         self.height = images[0].getHeight();
         self.speed = speed;
