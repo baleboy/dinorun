@@ -108,9 +108,8 @@ class Player {
                 } else {
                     state = STATE_RUNNING;
                 }
+                break;
             case STATE_DEAD:
-                // frameIndex = 0;
-                // frame = still[frameIndex];
                 break;
             default:
         }
@@ -123,7 +122,6 @@ class Player {
                 break;
             case STATE_RUNNING:
                 runningAnimation.draw(dc, PLAYER_X, y);
-                y = PLAYER_Y;
                 break;
             case STATE_JUMPING:
                 dc.drawBitmap(PLAYER_X, y, jumpingFrame);
