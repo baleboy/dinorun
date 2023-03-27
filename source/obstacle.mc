@@ -2,10 +2,13 @@ import Toybox.Graphics;
 import Toybox.WatchUi;
 
 /**
- * An obstacle is a scrolling object that has a bounding box.
+ * The obstacle class represents an object in the game that a player needs
+  * to avoid. The class adds a bounding box to a scrolling object.
  */ 
 class Obstacle extends ScrollingObject {
 
+    // The margins for the bounding box, which are used to make 
+    // the bounding box smaller than the image.
     const MARGIN_X = 20;
     const MARGIN_Y = 20;
 

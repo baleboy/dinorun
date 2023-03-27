@@ -2,7 +2,7 @@ import Toybox.Graphics;
 import Toybox.WatchUi;
 
 /**
- * A bounding box that can collide with other bounding boxes.
+ * A rectangular area used for collision detection.
  * Can be drawn as a red rectangle for debugging purposes. 
  */
 class BoundingBox {

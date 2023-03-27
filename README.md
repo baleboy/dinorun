@@ -1,6 +1,9 @@
-This is a simple game for the Garmin Forerunner that I made with my son.
+A side-scrolling endless runner for the Garmin Forerunner 235 sports watch.
 
-It was developed and tested with Garmin Connect IQ 4.2.3 SDK and VS Code.
+The player must control a dinosaur to avoid obstacles that are continuously
+coming at it.
+
+Developed and tested with Garmin Connect IQ 4.2.3 SDK and VS Code, at the request of my son :)
 
 ![Screenshot](assets/screenshot.png)
 
