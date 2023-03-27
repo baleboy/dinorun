@@ -19,9 +19,7 @@ class Game {
     const TERRAIN_Y = 155;
 
     // Game states
-    const STATE_START_SCREEN = 0;
-    const STATE_GAME = 1;
-    const STATE_GAME_OVER = 2;
+    enum {STATE_START_SCREEN, STATE_GAME, STATE_GAME_OVER}
 
     var state = STATE_START_SCREEN;
     var buttonPressed = false;

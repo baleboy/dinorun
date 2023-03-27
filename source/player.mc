@@ -20,11 +20,12 @@ class Player {
     const PLAYER_BB_MARGIN_Y = 20;
     const PLAYER_Y = 75;
 
-    const STATE_STANDING = 0;
-    const STATE_RUNNING = 1;
-    const STATE_JUMPING = 2;
-    const STATE_FALLING = 3;
-    const STATE_DEAD = 4;
+    enum {
+        STATE_STANDING,
+        STATE_RUNNING,
+        STATE_JUMPING,STATE_FALLING,
+        STATE_DEAD
+        }
 
     var state = STATE_STANDING;
 
