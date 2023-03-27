@@ -1,0 +1,114 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="logo.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+        </palette>
+    </bitmap>
+    <bitmap id="still_0" filename="still_2.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color> 
+        </palette>
+    </bitmap>
+    <bitmap id="still_1" filename="still_1.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="run_0" filename="run_0.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="run_1" filename="run_1.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="run_2" filename="run_2.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="run_3" filename="run_3.png" dithering="none">
+            <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="run_4" filename="run_4.png" dithering="none">
+        <palette>
+            <color>00AAFF</color>
+            <color>00FF00</color>
+            <color>FFAA00</color>
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="snake" filename="snake1.png" dithering="none">
+        <palette>
+            <color>000000</color>
+            <color>00AAFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="bones" filename="bones.png" dithering="none">
+        <palette>
+            <color>FFFFFF</color>
+            <color>AA0000</color>
+        </palette>
+    </bitmap>
+    <bitmap id="volcano" filename="volcano.png" dithering = "none">
+        <palette>
+            <color>FFAA00</color>
+            <color>FF0000</color>
+        </palette>
+    </bitmap>
+    <bitmap id="cloud" filename="cloud1.png" dithering="none">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="cactus1" filename="cactus1.png" dithering="none">
+        <palette>
+            <color>000000</color>
+            <color>00AA00</color>
+        </palette>
+    </bitmap>
+    <bitmap id="cactus2" filename="cactus2.png" dithering="none">
+        <palette>
+            <color>000000</color>
+            <color>00AA00</color>
+        </palette>
+    </bitmap>
+    <bitmap id="cactus3" filename="cactus3.png" dithering="none">
+        <palette>
+            <color>000000</color>
+            <color>00AA00</color>
+        </palette>
+    </bitmap>
+</drawables>
